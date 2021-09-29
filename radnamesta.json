@@ -1,0 +1,121 @@
+[ {
+    "naziv":"Android Developer",
+    "short":""
+  },
+  {
+      "naziv":"Backend Developer",
+      "short":""
+    },
+  {
+    "naziv":"Business Analyst",
+    "short":""
+  },
+  {
+    "naziv":"CTO",
+    "short":""
+  },
+  {
+    "naziv":"Customer Support",
+    "short":""
+  },
+  {
+    "naziv":"Data Science Engineer",
+    "short":""
+  },
+  {
+    "naziv":"Database Administrator",
+    "short":""
+  },
+  {
+    "naziv":"Delivery Manager",
+    "short":""
+  },
+  {
+    "naziv":"DevOps Engineer",
+    "short":""
+  },
+  {
+    "naziv":"Frontend Developer",
+    "short":""
+  },
+  {
+    "naziv":"Full Stack Developer",
+    "short":""
+  },
+  {
+    "naziv":"Game Designer",
+    "short":""
+  },
+  {
+    "naziv":"Game Producer",
+    "short":""
+  },
+  {
+    "naziv":"Graphic Designer",
+    "short":""
+  },
+  {
+    "naziv":"Hardware Engineer",
+    "short":""
+  },
+  {
+    "naziv":"HR Department",
+    "short":""
+  },
+  {
+      "naziv":"iOS Developer",
+      "short":""
+    },
+  {
+    "naziv":"Marketing Department",
+    "short":""
+  },
+  {
+    "naziv":"Network Administrator",
+    "short":""
+  },
+  {
+    "naziv":"Product Manager",
+    "short":""
+  },
+  {
+    "naziv":"Product Owner",
+    "short":""
+  },
+  {
+    "naziv":"Project Manager",
+    "short":""
+  },
+  {
+    "naziv":"QA Engineer",
+    "short":""
+  },
+  {
+    "naziv":"Scrum Master",
+    "short":""
+  },
+  {
+    "naziv":"SEO Specialist",
+    "short":""
+  },
+  {
+    "naziv":"Software Architect",
+    "short":""
+  },
+  {
+    "naziv":"Software Developer",
+    "short":""
+  },
+  {
+    "naziv":"Software Engineer",
+    "short":""
+  },
+  {
+    "naziv":"System Administrator",
+    "short":""
+  },
+  {
+    "naziv":"Technical Lead",
+    "short":""
+  }
+]

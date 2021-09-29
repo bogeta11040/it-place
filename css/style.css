@@ -1,0 +1,167 @@
+@font-face {
+  font-family: Exo;
+  src: url(../fonts/Exo.ttf);
+}
+
+@font-face {
+  font-family: Exob;
+  src: url(../fonts/Exo-Black.ttf);
+}
+
+@media only screen and (max-width: 600px) {
+  .naslov, .podnaslov {
+    text-shadow: 3px 3px #000000;
+  }
+  .mejl {
+      display: none;
+  }
+}
+
+html,body{
+    height:100%;
+}
+
+.flex-fill {
+    flex:1;
+}
+
+.full-vh {
+    height: 100vh;
+  }
+
+.table>:not(:last-child)>:last-child>* {
+border-color: white;
+ }
+
+.the {
+font-weight: normal;
+}
+
+.tbo {
+  font-weight: bold;
+}
+
+.lok {
+  font-weight: normal;
+}
+
+.sredina {
+  background-color: black;
+}
+
+.navbar {
+font: 1.3em/1em Exo, Arial, sans-serif;
+}
+
+.navbar-brand {
+font: 1.3em/1em Exob, Arial, sans-serif;
+}
+
+.naslov {
+font: 2.7em/1em Exob, Arial, sans-serif;
+color: white;
+}
+
+.podnaslov {
+font: 1.2em/1em Exob, Arial, sans-serif;
+color: white;
+}
+
+.jako {
+font: 2.7em/1em Exob, Arial, sans-serif;
+color: black;
+}
+
+.donjilogo {
+opacity: 0.5;
+}
+
+.pozadina {
+  background-image: url('../img/pozadina.jpg');
+  height: 90%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0 4px 5px 0 #9c9c9c;
+}
+
+.pozadina2 {
+  background-image: url('../img/pozadina.jpg');
+  height: 32%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    background-position: center center;
+    box-shadow: 0 4px 5px 0 #9c9c9c;
+}
+
+.card-box {
+    position: relative;
+    color: #fff;
+    padding: 20px 10px 40px;
+    margin: 20px 0px;
+}
+.card-box:hover {
+    text-decoration: none;
+    color: #f1f1f1;
+}
+.card-box:hover .icon i {
+    font-size: 100px;
+    transition: 1s;
+    -webkit-transition: 1s;
+}
+.card-box .inner {
+    padding: 5px 10px 0 10px;
+}
+.card-box h3 {
+    font-size: 27px;
+    font-weight: bold;
+    margin: 0 0 8px 0;
+    white-space: nowrap;
+    padding: 0;
+    text-align: left;
+}
+.card-box p {
+    font-size: 15px;
+}
+.card-box .icon {
+    position: absolute;
+    top: auto;
+    bottom: 5px;
+    right: 5px;
+    z-index: 0;
+    font-size: 72px;
+    color: rgba(0, 0, 0, 0.15);
+}
+.card-box .card-box-footer {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    text-align: center;
+    padding: 3px 0;
+    color: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-decoration: none;
+}
+.card-box:hover .card-box-footer {
+    background: rgba(0, 0, 0, 0.3);
+}
+.bg-blue {
+    background-color: #00c0ef !important;
+}
+.bg-green {
+    background-color: #00a65a !important;
+}
+.bg-orange {
+    background-color: #f39c12 !important;
+}
+.bg-red {
+    background-color: #d9534f !important;
+}
+
+.boks {
+  background-color: transparent;
+  color: #FFC107;
+}
