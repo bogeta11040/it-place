@@ -1,7 +1,7 @@
 # it-place
 Slovenian salary-specific IT jobs site.
 
-![image](https://raw.githubusercontent.com/bogeta11040/it-place/main/logo.png)
+[![image](https://raw.githubusercontent.com/bogeta11040/it-place/main/logo.png)](https://it-place.si)
 
 
 Lists every position in a field with free salary info. Allows users to share their salaries. Social authentication, users sign in with LinkedIn or GitHub.
