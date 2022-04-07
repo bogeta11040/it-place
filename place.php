@@ -18,6 +18,7 @@
        <head>
          <meta charset="utf-8">
          <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+         <?php echo "<meta name=\"description\" content=\"Kliknite in razi&scaron;&#269;ite pla&#269;e - " . $naslov . "\">"; ?>
          <?php echo "<title>" . $naslov . " - it-place.si</title>"; ?>
              <link rel="icon" type="image/png" href="https://it-place.si/favicon.png" />
          <link rel="stylesheet" href="css/bootstrap.min.css">
