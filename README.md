@@ -8,7 +8,9 @@ Lists every position in a field with free salary info. Allows users to share the
 
 * [http://it-place.si](https://www.it-place.si/)
 
+## Note
 
+This is the site I made a while ago. It makes use of good programming practices such as the use of prepared statements to prevent SQL injection attacks. However, one thing that could be improved is the use of more descriptive variable names. Some of the variables, such as $stmt and $con, are not immediately clear in terms of their purpose.
 
 ## Built With
 
